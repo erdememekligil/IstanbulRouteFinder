@@ -1,0 +1,17 @@
+Memory size:12
+Search done in 2 miliseconds = 00:00:00.0025642
+---------Stops---------
+Stop id, Stop name
+3 "KİRAZLITEPE MRKZ."
+4 "K.TEPE BÜYÜK CAMİ"
+5 DÖRTYOL
+6 "DEREYOLU UZUN SOK."
+7 "ÇAMLICA İÖOKL."
+8 "SELAMİ TÜRBESİ SOK."
+9 "VEFAKAR SOKAK"
+10 "K.ÇAMLICA CAD."
+11 "BİLFEN KOLEJİ"
+12 "METROBÜS ACIBADEM"
+---------Routes---------
+Route id, Route name
+1 1
