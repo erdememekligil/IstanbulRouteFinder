@@ -13,4 +13,4 @@ Notes
 
 Screenshots
 -----------
-![ScreenShot](https://raw.github.com/erdememekligil/IstanbulRouteFinder/tree/master/Outsource/screenshot.jpg)
+![ScreenShot](https://raw.github.com/erdememekligil/IstanbulRouteFinder/master/Outsource/screenshot.jpg)
