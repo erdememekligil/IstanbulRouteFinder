@@ -11,4 +11,6 @@ Notes
 
 -Also “output.txt” is created after a successful search in execution directory.Default it will be “\MapApplication\bin\Release\” directory.
 
--
+Screenshots
+-----------
+![ScreenShot](https://raw.github.com/erdememekligil/IstanbulRouteFinder/tree/master/Outsource/screenshot.jpg)
